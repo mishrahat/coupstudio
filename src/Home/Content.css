@@ -1,0 +1,41 @@
+.title-hero-2::before {
+  content: "STEP AHEAD!";
+  position: absolute;
+  color: #ccfd01;
+  right: 5px;
+  z-index: -1;
+}
+
+@media (max-width: 600px) {
+  .cursor-custom,
+  .extra-hero {
+    display: none;
+  }
+
+  .title-hero,
+  .title-hero-2 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .title-hero {
+    padding: 40px 0 0 0;
+  }
+
+  .title-hero-2 {
+    padding: 10px 0 0 10px;
+  }
+
+  .title-hero-2::before {
+    content: "STEP AHEAD!";
+    position: absolute;
+    font-size: 39px;
+    color: #ccfd01;
+    right: 3px;
+    z-index: -1;
+  }
+
+  .hero-img {
+    width: 400px;
+  }
+}

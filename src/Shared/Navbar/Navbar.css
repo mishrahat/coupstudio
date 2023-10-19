@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  .navbar,
+  .primary-btn {
+    display: none;
+  }
+
+  .menu-open {
+    width: 60px;
+    padding-right: 20px;
+  }
+}
