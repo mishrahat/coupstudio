@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+  .accordion_section {
+    width: 90vw;
+    margin-inline: 5.5vw;
+    margin-top: 12vw;
+  }
+
+  .accordion_content {
+    height: 50vw;
+    font-size: 4vw;
+    padding-top: 10vw;
+  }
+
+  .accordion_text {
+    width: 80vw;
+  }
+
+  .faq_title_text {
+    font-size: 4vw;
+  }
+}

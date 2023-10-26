@@ -34,4 +34,8 @@
     height: 380px;
     margin-inline: 7vw;
   }
+
+  .services_text {
+    font-size: 4vw;
+  }
 }

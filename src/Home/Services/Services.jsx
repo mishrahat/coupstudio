@@ -8,7 +8,7 @@ const Services = () => {
         <h4 className="text-3xl text-center lg:text-start lg:text-5xl font-bold uppercase">
           Our Services
         </h4>
-        <p className="lg:w-1/2 text-[4.5vw] lg:text-lg lg:text-start text-center">
+        <p className="lg:w-1/2 text-[4.5vw] lg:text-lg lg:text-start text-center services_text">
           The goal is to serve you the best quality experience and our work is
           to make your business go boom 🚀
         </p>
